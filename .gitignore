@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .DS_Store
 /.build
 /Packages
@@ -69,4 +69,3 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
->>>>>>> 656bd2323ff29faaf74f6a1493517f7ddce3b7ad
